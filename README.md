@@ -1,2 +1,2 @@
 # DNA-Promoter-classification-to-understand-if-a-person-has-E.Coli
-DNA Promoter classification to understand if a person has E.Coli virus and deployment on  AWS
+In this project the information about small parts from the DNA encoded into 4 types A,C,G,T are given in a dataset. we preprocess this data into more usable format and train the MLP classifier model which is based on Neural-net architecture and provides very high performance with less training time. Then the Django project is created and hosted on AWS.
